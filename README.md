@@ -35,4 +35,4 @@ const hash = generateSHA256Hash('admin123*');
 ```
 
 ## 📜 Licencia
-MIT 2025 </DevJuseth>
+MIT 2025 //</Dev-Juseth>
